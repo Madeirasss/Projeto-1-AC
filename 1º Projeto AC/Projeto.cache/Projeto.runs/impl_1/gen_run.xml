@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-2" LaunchTime="1741723472">
+  <File Type="REPORTS-TCL" Name="placa_mae_reports.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="placa_mae_power_summary_routed.pb"/>
+  <File Type="BITSTR-MMI" Name="placa_mae.mmi"/>
+  <File Type="OPT-DRC" Name="placa_mae_drc_opted.rpt"/>
+  <File Type="BG-DRC" Name="placa_mae.drc"/>
+  <File Type="ROUTE-STATUS-PB" Name="placa_mae_route_status.pb"/>
+  <File Type="BG-BGN" Name="placa_mae.bgn"/>
+  <File Type="PLACE-UTIL" Name="placa_mae_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="placa_mae_utilization_placed.pb"/>
+  <File Type="PLACE-IO" Name="placa_mae_io_placed.rpt"/>
+  <File Type="BG-BIN" Name="placa_mae.bin"/>
+  <File Type="PLACE-CTRL" Name="placa_mae_control_sets_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="placa_mae_power_routed.rpx"/>
+  <File Type="ROUTE-DCP" Name="placa_mae_routed.dcp"/>
+  <File Type="BITSTR-MSK" Name="placa_mae.msk"/>
+  <File Type="BITSTR-RBT" Name="placa_mae.rbt"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="placa_mae_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="placa_mae_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="placa_mae_route_status.rpt"/>
+  <File Type="PA-TCL" Name="placa_mae.tcl"/>
+  <File Type="ROUTE-PWR" Name="placa_mae_power_routed.rpt"/>
+  <File Type="ROUTE-DRC" Name="placa_mae_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="placa_mae_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="placa_mae_drc_routed.pb"/>
+  <File Type="BITSTR-SYSDEF" Name="placa_mae.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="placa_mae_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="placa_mae_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="placa_mae.ltx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="placa_mae_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-SIMILARITY" Name="placa_mae_incremental_reuse_routed.rpt"/>
+  <File Type="RDI-RDI" Name="placa_mae.vdi"/>
+  <File Type="ROUTE-CLK" Name="placa_mae_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="placa_mae_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="placa_mae_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="placa_mae_bus_skew_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="placa_mae_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="placa_mae_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="placa_mae_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="placa_mae_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="placa_mae_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="placa_mae.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="placa_mae_bus_skew_postroute_physopted.pb"/>
+  <File Type="BITSTR-NKY" Name="placa_mae.nky"/>
+  <File Type="BITSTR-BMM" Name="placa_mae_bd.bmm"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="OPT-HWDEF" Name="placa_mae.hwdef"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="placa_mae_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="placa_mae_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="placa_mae_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMING-PB" Name="placa_mae_timing_summary_routed.pb"/>
+  <File Type="OPT-DCP" Name="placa_mae_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="placa_mae_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="placa_mae_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="placa_mae_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="placa_mae_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="placa_mae_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="placa_mae_postroute_physopt_bb.dcp"/>
+  <File Type="PDI-FILE" Name="placa_mae.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="placa_mae_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="placa_mae_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="placa_mae.rcfi"/>
+  <File Type="CFI_FILE" Name="placa_mae.cfi"/>
+  <File Type="RNPI_FILE" Name="placa_mae.rnpi"/>
+  <File Type="NPI_FILE" Name="placa_mae.npi"/>
+  <File Type="RBD_FILE" Name="placa_mae.rbd"/>
+  <File Type="ROUTE-RQS" Name="placa_mae_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="placa_mae_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/Memoria de Instrucoes.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Operando1_PORTANOR.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/alu.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/banco_registos.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/gestor_perifericos.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/memoria_dados.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/mux_pc.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/mux_r.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/pc.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/processador.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/registo_flags.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/rom_decod.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/placa_mae.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="placa_mae"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/fpga.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/placa_mae.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>
