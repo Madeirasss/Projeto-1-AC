@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "placa_mae_teste_behav" "xil_defaultlib.placa_mae_teste" -log "elaborate.log" 

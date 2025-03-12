@@ -1,0 +1,19 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Projeto.srcs/sources_1/new/Memoria de Instrucoes.vhd" \
+"../../../../Projeto.srcs/sources_1/new/Operando1_PORTANOR.vhd" \
+"../../../../Projeto.srcs/sources_1/new/alu.vhd" \
+"../../../../Projeto.srcs/sources_1/new/banco_registos.vhd" \
+"../../../../Projeto.srcs/sources_1/new/gestor_perifericos.vhd" \
+"../../../../Projeto.srcs/sources_1/new/memoria_dados.vhd" \
+"../../../../Projeto.srcs/sources_1/new/mux_pc.vhd" \
+"../../../../Projeto.srcs/sources_1/new/mux_r.vhd" \
+"../../../../Projeto.srcs/sources_1/new/pc.vhd" \
+"../../../../Projeto.srcs/sources_1/new/placa_mae.vhd" \
+"../../../../Projeto.srcs/sources_1/new/processador.vhd" \
+"../../../../Projeto.srcs/sources_1/new/registo_flags.vhd" \
+"../../../../Projeto.srcs/sources_1/new/rom_decod.vhd" \
+"../../../../Projeto.srcs/sim_1/new/placa_mae_teste.vhd" \
+
+# Do not sort compile order
+nosort

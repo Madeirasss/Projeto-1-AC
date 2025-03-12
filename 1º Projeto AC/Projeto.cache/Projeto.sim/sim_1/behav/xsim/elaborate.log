@@ -1,0 +1,32 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: E:/Xilinx/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot placa_mae_teste_behav xil_defaultlib.placa_mae_teste -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_signed
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.gestor_perifericos [gestor_perifericos_default]
+Compiling architecture behavioral of entity xil_defaultlib.registo_flags [registo_flags_default]
+Compiling architecture behavioral of entity xil_defaultlib.mux_pc [mux_pc_default]
+Compiling architecture behavioral of entity xil_defaultlib.alu [alu_default]
+Compiling architecture behavioral of entity xil_defaultlib.banco_registos [banco_registos_default]
+Compiling architecture behavioral of entity xil_defaultlib.mux_r [mux_r_default]
+Compiling architecture behavioral of entity xil_defaultlib.rom_decod [rom_decod_default]
+Compiling architecture behavioral of entity xil_defaultlib.pc [pc_default]
+Compiling architecture behavioral of entity xil_defaultlib.Operando1_PORTANOR [operando1_portanor_default]
+Compiling architecture behavioral of entity xil_defaultlib.processador [processador_default]
+Compiling architecture behavioral of entity xil_defaultlib.memoria_dados [memoria_dados_default]
+Compiling architecture behavioral of entity xil_defaultlib.memoria_instrucoes [memoria_instrucoes_default]
+Compiling architecture behavioral of entity xil_defaultlib.placa_mae [placa_mae_default]
+Compiling architecture behavioral of entity xil_defaultlib.placa_mae_teste
+Built simulation snapshot placa_mae_teste_behav
